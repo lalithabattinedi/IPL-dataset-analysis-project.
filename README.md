@@ -45,8 +45,8 @@ Key Insights from the Analysis
 
 • Most balls faced: Virat Kohli
 
-Dismissal types and their distribution
+• Dismissal types and their distribution
 
-Player-specific run stats (e.g., BB McCullum vs RCB)
+• Player-specific run stats (e.g., BB McCullum vs RCB)
 
-Overs with more than 6 runs scored
+• Overs with more than 6 runs scored
